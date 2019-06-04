@@ -26,9 +26,9 @@ Global
 		SccNumberOfProjects = 2
 		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
 		SccTeamFoundationServer = https://smjalalian.visualstudio.com/
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = ParmisAutomation\\ParmisAutomation.csproj
-		SccProjectName1 = ParmisAutomation
-		SccLocalPath1 = ParmisAutomation
+		SccProjectUniqueName0 = ParmisAutomation\\ParmisAutomation.csproj
+		SccProjectName0 = ParmisAutomation
+		SccLocalPath0 = ParmisAutomation
+		SccLocalPath1 = .
 	EndGlobalSection
 EndGlobal
